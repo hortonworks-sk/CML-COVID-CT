@@ -13,6 +13,9 @@ def tensorboard(fname):
                             stdout=FNULL, stderr=FNULL)
     wait.tcp.open(int(os.environ["CDSW_READONLY_PORT"]))
     return url, proc.pid
-  
+
   
 tensorboard("/home/cdsw/demo/tensorboard/tf_files/training_summaries")
+
+#!/home/cdsw/.local/bin/tensorboard --logdir /home/cdsw/demo/tensorboard/tf_files/training_summaries --port  8090 --host localhost 
+
