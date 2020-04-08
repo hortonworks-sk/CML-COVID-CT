@@ -1,0 +1,14 @@
+Untitled.ipynb
+.jupyter/
+.ipynb_checkpoints/
+saved_models/*
+.cache
+.conda
+.config
+.ipython
+.keras
+.local
+.pip
+.Rprofile
+.ssh
+.viminfo
