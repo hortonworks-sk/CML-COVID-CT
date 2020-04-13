@@ -1,5 +1,5 @@
 # Diagnosing COVID-19 
-## Classification of Ground Glass Opacities in CT scans   
+## Classification of Ground Glass Opacities in CT scans in CML  
 
 
 
