@@ -20,7 +20,10 @@
 This repository demonstrates the use of Image classification to identify Ground Glass Opacities, in patients, for use in diagnosis.  
 
 <BR>
-<BR>
+
+### References
+
+https://pubs.rsna.org/doi/full/10.1148/radiol.2020200642
 
 ### Setup
 
