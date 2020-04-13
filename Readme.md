@@ -5,7 +5,7 @@
 
 <BR>
 
-	<p align="center"><img src="images/CT_Scans.png" width="600"></p>
+<p align="center"><img src="images/CT_Scans.png" width="600"></p>
 
 
 ### Summary
