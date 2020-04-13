@@ -1,7 +1,7 @@
 # Diagnosing COVID-19 
 ## Classification of Ground Glass Opacities in CT scans   
 
-[skiaie@cloudera.com](mailto:skiaie@cloudera.com)
+
 
 <BR>
 
